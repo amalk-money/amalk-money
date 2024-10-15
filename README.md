@@ -7,9 +7,9 @@ I'm a System Engineer💻 at Tata Consultancy Services🏢. I love currently lea
 - 👯 I’m looking to collaborate on: Salesforce Lightning⚡ related projects.
 - 💬 Ask me about: Salesforce Technology☁️.
 - ⚡ Fun fact: I just love sketching ✏️🎨
+- 📫 Reach me out: amalkmoney1998@gmail.com
 
 ## Get in Touch
-- [Gmail](amalkmoney1998@gmail.com)📫
 - [LinkedIn](https://www.linkedin.com/in/amalkmoney/)🔗
 - [Twitter](https://x.com/amalkmoney)🕊️
 
