@@ -6,10 +6,10 @@ I'm a System Engineer💻 at Tata Consultancy Services🏢. I love currently lea
 - 🌱 Currently learning: Salesforce Development, Ligntning⚡ Web Components & Apex.
 - 👯 I’m looking to collaborate on: Salesforce Lightning⚡ related projects.
 - 💬 Ask me about: Salesforce Technology☁️.
-- ⚡ Fun fact: Love sketching ✏️🎨
+- ⚡ Fun fact: I just love sketching ✏️🎨
 
 ## Get in Touch
-- [GMail](amalkmoney1998@gmail.com)📫
+- [Gmail](amalkmoney1998@gmail.com)📫
 - [LinkedIn](https://www.linkedin.com/in/amalkmoney/)🔗
 - [Twitter](https://x.com/amalkmoney)🕊️
 
