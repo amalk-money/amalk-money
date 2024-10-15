@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Amal! 👋
 
-<!--
-**amalk-money/amalk-money** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a System Engineer💻 at Tata Consultancy Services🏢. I love currently learning Saleforce Cloud☁️ and I'm always eager to learn new✨ things.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Salesforce Development, Ligntning⚡ Web Components & Apex.
+- 👯 I’m looking to collaborate on: Salesforce Lightning⚡ related projects.
+- 💬 Ask me about: Salesforce Technology☁️.
+- ⚡ Fun fact: Love sketching ✏️🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- [GMail](amalkmoney1998@gmail.com)📫
+- [LinkedIn](https://www.linkedin.com/in/amalkmoney/)🔗
+- [Twitter](https://x.com/amalkmoney)🕊️
+
+Thanks for stopping by! 😊
